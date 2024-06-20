@@ -2,7 +2,7 @@
 
 Este projeto é um exemplo simples de como utilizar a API do ViaCEP para buscar informações de endereço a partir de um CEP informado pelo usuário.
 
-![Screenshot](screenshot.png)
+![cep](https://github.com/thaynarasabryna/api-cep/assets/112216179/41103def-ace9-4744-ba4c-cf3ffd1bc69c)
 
 ## Tecnologias Utilizadas
 
@@ -19,6 +19,8 @@ Este projeto é um exemplo simples de como utilizar a API do ViaCEP para buscar 
 ## Como Usar
 
 1. Clone o repositório para o seu ambiente local.
-   ```bash
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git
-   cd nome-do-repositorio
+2. ```bash git clone https://github.com/thaynarasabryna/api-cep.git
+3. cd api-cep
+4. Configure um servidor local PHP (ex.: XAMPP, WAMP) ou utilize o servidor embutido do PHP para executar o projeto.
+5. Abra o arquivo index.php no seu navegador.
+6. Insira um CEP válido no campo de busca e aguarde a exibição dos dados de endereço.
