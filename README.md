@@ -1,4 +1,4 @@
-# Estudo CEP com API ViaCEP
+# Consulta CEP com API ViaCEP
 
 Este projeto é um exemplo simples de como utilizar a API do ViaCEP para buscar informações de endereço a partir de um CEP informado pelo usuário.
 
