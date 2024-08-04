@@ -10,7 +10,7 @@ $(document).ready(function() {
         } else if (/^\d{5}-?\d{3}$/g.test(cep)) {
             $.ajax({
                 type: 'POST',
-                url: 'action.php',
+                url: 'actions.php',
                 data: {cep: cep},
                 beforeSend: function() {
                     $('#form-endereco').html(`<div style="margin-top:10px;" class="spinner-border text-primary" role="status"><span class="sr-only"></span></div>`);
